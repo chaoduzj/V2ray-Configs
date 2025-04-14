@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://308a14d1-cfae-405f-9d69-2922f87ee79b@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
+vless://780161d1-a345-45d4-96fb-c2c4b88bf151@104.21.44.107:443?security=tls&sni=dd.gevom47953.workers.dev&type=ws&host=dd.gevom47953.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.107:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.72:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.72:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.22.116.80:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇬🇧 GB-31.22.116.80:2095
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.199.226:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.199.226:80
+vless://f6a7873b-5d12-48a1-8439-a737b7dcbeab@104.18.15.19:2052?security=none&type=ws&host=03tg.d8drh4l9.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:2052
 vless://eac441be-2874-4671-b013-f7e47f41bf03@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.speedtest2.cfd.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.67:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.67:80
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@173.245.58.217:443?security=tls&sni=gb-3.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-173.245.58.217:443
@@ -597,9 +603,3 @@ vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?type=ws#🔒 VL
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.96:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.96:80
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.121:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.121:443
 vless://788b62ee-c339-440e-be0b-24e8b166206b@172.67.137.175:8880?security=none&type=ws&host=amir-vpn-admin1.academivpn-mystic.site.&path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.137.175:8880
-vless://55520747-311e-4015-83ce-be46e2060ce3@216.24.57.108:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.108:443
-vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@104.26.12.140:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:443
-vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@190.93.245.55:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.55:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.253.94:443?security=tls&sni=edcce.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-43.156.253.94:443
-vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.47.101:8443?security=tls&sni=maHdiSERveR-HJA.pAGES.DEv&type=ws&host=mahdiserver-hja.pages.dev&path=%2Fb6C76B0qVLCG0tcY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.101:8443
-vless://aa29360c-55ce-4986-8232-091ccfa6151b@172.67.73.163:8080?security=none&type=ws&host=SE.kRbC9dycP8.ZulAir.orG.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:8080
