@@ -598,8 +598,8 @@ trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.171:27001?security=tls&
 trojan://Aimer@199.34.228.164:2087?sni=epccy.ambercc.filegear-sg.me#US37
 trojan://Aimer@92.53.190.161:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5123
 
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:11555?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C13%7CCN_speednode_0006
-trojan://bf3d849e-617e-399b-b468-7d0fac6e890b@gyl.58n.net:20309?allowInsecure=1&sni=z309.hongkongnode.top#0%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%204.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:19620?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%203.6MB/s
-trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@104.21.69.41:443?allowInsecure=0&sni=uS7-06.890602.xyz&type=ws&host=us7-06.890602.xyz&path=/Zseq8mE8wMzbGFtV#0%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%203.8MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4er8J+HtzEgfCAgMi4wTUIvcyIsICJhZGQiOiAiODdhYjZlYzEtc3V4OGcwLXN1c24zaS0xbGt0MC5jbTUucDVwdi5jb20iLCAicG9ydCI6ICIxNzIzNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNkMWIwYWUwLTQwMTAtMTFlZS05NTNhLWYyM2M5MTY0Y2E1ZCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmFiZTcxZi0xODljLTQwMWYtYWI0NC0wNGIxMTdjZTM1NTQ=@free.2weradf.xyz:36141#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001%20%7C%201x%20HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmFiZTcxZi0xODljLTQwMWYtYWI0NC0wNGIxMTdjZTM1NTQ=@free.2weradf.xyz:36143#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002%20%7C%201x%20HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmFiZTcxZi0xODljLTQwMWYtYWI0NC0wNGIxMTdjZTM1NTQ=@free.2weradf.xyz:36145#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85IP%2003%20%7C%201x%20HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmFiZTcxZi0xODljLTQwMWYtYWI0NC0wNGIxMTdjZTM1NTQ=@free.2weradf.xyz:36241#0%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001%20%7C%201x%20TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmFiZTcxZi0xODljLTQwMWYtYWI0NC0wNGIxMTdjZTM1NTQ=@free.2weradf.xyz:36243#0%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2002%20%7C%201x%20TW
