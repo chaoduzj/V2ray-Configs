@@ -3,7 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9074e14-c4e4-4e58-8fff-3727e83af868@170.114.45.6:80?allowInsecure=1&sni=free.pranithsandaruwan.shop&type=ws&host=free.pranithsandaruwan.shop&path=/fp=chrome#14%7CUS_speednode_0058
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz:34016?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0063
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0064
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0065
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz:44397?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0066
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.ael01i9zjfegelp.5xfsur8v62.gosdk.xyz:43497?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0067
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.arl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43590?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0068
+trojan://e254ed63-33df-4ca8-a980-7d0d9f510a93@aafrtpfxr.brl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43586?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0069
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503181464410-9tCwc1fdZ3.download.microsoft.com#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503181464410-9tCwc1fdZ3.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
