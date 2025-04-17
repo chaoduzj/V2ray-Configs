@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:6697
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MXdsTVVnS3V5ZU9EWkVo@85.210.49.226:443#🔒 SS-TCP-NA 🇬🇧 GB-85.210.49.226:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@159.69.246.135:8080#🔒 SS-TCP-NA 🇩🇪 DE-159.69.246.135:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.60:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk=@188.253.112.26:20021#🔒 SS-TCP-NA 🇭🇰 HK-188.253.112.26:20021
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3389
-ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#🔒 SS-TCP-NA 🇷🇺 RU-185.126.239.231:20002
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.18:9038#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9038
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.232:2377#🔒 SS-TCP-NA 🇹🇼 TW-61.216.165.232:2377
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:443
 ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21115#🔒 SS-TCP-NA 🇺🇸 US-154.83.90.11:21115
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9020
@@ -603,3 +594,12 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDIxIHwgIDIuOU1CL3MiLCAiYWRkIjogIjdk
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:24318?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AD%F0%9F%87%B06%20%7C%20%201.8MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDMwIHwgIDIuME1CL3MiLCAiYWRkIjogImY1Zjk4NDc3LXN1dGo0MC10ZGNkYjctMWsyN2wuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImJhNGIxZjJlLWM5ODUtMTFlZC05YzBjLWYyM2M5MTNjOGQyYiJ9
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.210.16:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram🇨🇳@WangCai2/?ed=2560flow=-udp443&fp=#1%7C%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%205.7MB/s
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@104.16.188.41:443?sni=cr7.medicalhistory.ir&type=ws&host=cr7.medicalhistory.ir&path=/-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServer-@EuServerflow=-udp443&fp=randomized&security=tls#1%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%201.7MB/s
+hysteria2://dongtaiwang.com@46.17.41.217:64816?insecure=1&sni=apple.com#1%7C%F0%9F%87%B7%F0%9F%87%BA2%20%7C%20%201.8MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:20216?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%B7%F0%9F%87%BA3%20%7C%20%205.3MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:49699?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0037
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?sni=cr777.rayan.dpdns.org&type=ws&host=cr777.rayan.dpdns.org&path=sinavm-sinavm/?ed=2560flow=-udp443&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B824%20%7C%20%201.2MB/s
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram@V2ray_Alphaflow=-udp443&fp=&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B825%20%7C%20%203.6MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDI2IHwgIDEuNk1CL3MiLCAiYWRkIjogIjJjMjIyN2UxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImExMjY0MGQwLWUyYWQtMTFlZi04ZjViLWYyM2M5MTNjOGQyYiJ9
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?allowInsecure=1&sni=vb.bgm2024.dpdns.org&type=ws&path=/ss.vs2024.us.kgsecurity=tls#1%7C%F0%9F%87%BA%F0%9F%87%B827%20%7C%20%204.1MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:50200?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0030
