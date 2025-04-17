@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.230:8880?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.230:8880
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.200.160.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.0:2087
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram@V2ray_Alpha#🔒 VL-WS-TLS 🇺🇸 US-209.208.227.229:443
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@199.34.228.71:443?security=tls&sni=cr7.medicaldream.ir&type=ws&host=cr7.medicaldream.ir&path=%2F%3Fed%3D2550%3F%2F%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPNflow%3D-udp443&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.71:443
@@ -603,3 +602,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.64:80?security=none&typ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.146:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.146:8880
 vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:2086?security=none&type=ws&host=0110.wdpkomyt.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:2086
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2053
+vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2053

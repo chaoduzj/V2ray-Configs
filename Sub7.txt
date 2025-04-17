@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ba6b9e44-3ea3-405d-a9eb-d5fcda84fdda@172.67.162.74:443?security=tls&sni=Yu.irAn.pp.Ua&type=ws&host=yu.iran.pp.ua&path=%2FLdK4tlc2QASULQ4Era5IOo&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.74:443
 vless://3a87ca1d-4378-4277-a0bc-0e0cc5df45dc@172.66.44.73:443?security=tls&sni=maHdISErveR-Ds3.Pages.dev&type=ws&host=mahdiserver-ds3.pages.dev&path=%2FrbR9PR3zqc6sFrFg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.73:443
 vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.47.101:8443?security=tls&sni=maHdiSERveR-HJA.pAGES.DEv&type=ws&host=mahdiserver-hja.pages.dev&path=%2Fb6C76B0qVLCG0tcY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.101:8443
 vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.112.1:2087?security=tls&sni=MehRnewS.twN24.Ir&type=httpupgrade&host=mehrnews.twn24.ir&path=%2F1TEFUc8jfdS517rirmowmH&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.112.1:2087
@@ -603,3 +602,4 @@ vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@172.67.74.219:443?security=tls&sni=
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.178:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:2096
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.55:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.104.55:443
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.98.90:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.90:443
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.154:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.154:80
