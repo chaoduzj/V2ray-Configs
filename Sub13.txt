@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://28f6cde4-a129-3a08-997e-dbfee628adf0@gy.58n.net:50355?allowInsecure=1&sni=z264.hongkongnode.top#1%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%206.2MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:29023?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B815%20%7C%20%205.5MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:27932?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%203.9MB/s
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@199.34.228.67:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram@V2ray_Alphaflow=-udp443&fp=&security=tls#1%7C%F0%9F%87%A6%F0%9F%87%BA1%20%7C%20%202.0MB/s
 hysteria2://Bia-SiNAVM-SiNAVM-SiNAVM-SiNAVM@sinavm.sinabigo.ir:443?sni=sinavm.sinabigo.ir&obfs=salamander&obfs-password=@SiNAVM-@SiNAVM-@SiNAVM-SiNAVM#1%7C%F0%9F%87%B3%F0%9F%87%B12%20%7C%20%201.8MB/s
