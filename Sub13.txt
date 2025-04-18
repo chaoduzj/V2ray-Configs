@@ -3,35 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjM4IiwgInBvcnQiOiAiNDEyOTEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6ICI0MzY3NCIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjMyLjE1My40MCIsICJwb3J0IjogIjM2NjA5IiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN85Y+w5rm+fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImhhYS5kYXNodWFpLmN5b3UiLCAicG9ydCI6ICI0NTA3OCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI5YTEzMjJiMC05YzZlLTQzM2MtOGZiMy1kNzY5MGIzMDkzZjIiLCAic25pIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN85Y+w5rm+MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJmYWRhd3Rhd2Quemhhbmd3ZWkubGkiLCAicG9ydCI6ICI0NjAwNSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjRjNWE4YTc1LTdkNjUtNDBhOS04YzNiLWE2N2FiYWUwODUzNCIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3poLWNuIn0=
-trojan://74260696553770700@robust-redfish.shiner427.skin:443?#13%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN85pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI4MWY2YmYzNy1zdXRqNDAtc3ZncHh1LXkyZ3MuY201LnA1cHYuY29tIiwgInBvcnQiOiAiMTcyMzMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjgwNmIzODgtNWY5Ny0xMWVlLTgwMTQtZjIzYzkxM2M4ZDJiIiwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN85paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIwNDk2MzM1Yy1zdXg4ZzAtc3didWRnLTFtendqLmNtNS5wNXB2LmNvbSIsICJwb3J0IjogIjE3MjMxIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImEyMDNkODBlLTEwZmUtMTFlZi04OGE2LWYyM2M5MTY0Y2E1ZCIsICJzbmkiOiAiIn0=
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@35.86.78.91:443#13%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.203.242.176:443#13%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.35.132.172:443#13%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?allowInsecure=0&sni=vb.bgm2024.dpdns.org&type=ws&host=vb.bgm2024.dpdns.org&path=/security=tls#14%7CAT_speednode_0001
-vless://c7a28fa8-fc43-f6b5-7ae8-6413a746d905@mehamboz.darkping.net:6718?allowInsecure=0&sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCH_speednode_0005
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:11555?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0011
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:35853?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0012
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:48121?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0014
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:37809?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0015
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:23301?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0016
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:32193?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0018
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0021
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:31800?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0022
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:20694?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0024
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:65053?allowInsecure=1&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0028
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:14659?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCN_speednode_0030
-vless://409ef7ff-6449-4b9a-9db9-775927a1a925@eng1.lunayek.ir:8989?allowInsecure=0&sni=refersion.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CGB_speednode_0034
-vless://24a96691-a1d9-4471-f3a8-957fb7a787a0@162.247.5.96:443?allowInsecure=0&sni=hk.qhahd.shop&type=ws&host=hk.qhahd.shop&path=/bingsecurity=tls#14%7CHK_speednode_0035
-vless://fcc8b2f5-7be7-48b7-af2b-f79cd7c6befe@s24.namasha.top:57725?allowInsecure=0&sni=fast.com#14%7CIR_speednode_0036
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@141.147.188.120:443?allowInsecure=0&sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&path=/?ed=2560security=tls#14%7CJP_speednode_0037
-vless://3c5640c5-0e1b-4081-f174-0361c3c94d14@156.231.140.34:19085?allowInsecure=0&sni=www.lovelive-anime.jp&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CJP_speednode_0038
 vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@tk-007.xiaoxiaobujidao.xyz:443?allowInsecure=0&sni=cloud.oracle.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#14%7CJP_speednode_0039
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.2:443?allowInsecure=0&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram@V2ray_Alphasecurity=tls#14%7CJP_speednode_0041
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.1:443?allowInsecure=0&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=/Telegram@V2ray_Alphasecurity=tls#14%7CJP_speednode_0042
